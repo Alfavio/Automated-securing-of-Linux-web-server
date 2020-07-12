@@ -70,6 +70,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
 
+## Other
+
+An article about this project was published in:
+
+- [2019 IEEE 15th International Scientific Conference on Informatics *(ISBN 978-1-7281-3181-8, pages 491-496)*](https://ieeexplore.ieee.org/document/9119272)
+- [IPSI BgD Transactions on Internet Research *(ISSN 1820-4503, pages 61-68)*](http://ipsitransactions.org/journals/papers/tir/2020jul/fullPaper.pdf)
+
 ## Acknowledgments :heart:
 
 Configuration setting are inspired by:
